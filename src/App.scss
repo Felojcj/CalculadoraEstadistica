@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Hind:300,400,500,600,700');
+
+$font1: 'Hind', sans-serif;
+$font2: 'Quicksand', sans-serif;
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  // font-family: $font1;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+button,
+input,
+ul,
+li {
+  font-family: $font2;
+  color: #FFFFFF;
+}
+
+ul li {
+  list-style-type: none;
+  text-align: center;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+  background: #20232A;
+  background-image: url('https://image.flaticon.com/icons/svg/858/858682.svg');
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-size: 25%;
+  height: 100vh;
+  width: 100vw;
+  &-header,
+  &-body{
+    height: 25vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0;
+    &__tittle {
+      margin: 0;
+    }
+    &__form {
+      display: flex;
+      flex-direction: column;
+      &-input {
+        margin: 10px;
+        line-height: 2em;
+        border-radius: 5px;
+        background-color: #20232A;
+        border: 0;
+        background-image: url(https://image.flaticon.com/icons/svg/2064/2064997.svg);
+        background-position: 10px center;
+        background-repeat: no-repeat;
+        background-size: 10%;
+        border: 1px solid #ccc;
+    
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px;
+        -ms-border-radius: 4px;
+        -o-border-radius: 4px;
+        border-radius: 4px;
+    
+        padding: 10px 5px 10px 20px;
+        text-indent: 20px;
+    
+        -webkit-transition: all 0.2s;
+        -moz-transition: all 2s;
+        transition: all 0.2s;
+    
+        width: 200px
+      }
+      &-button{
+        margin: 10px;
+        line-height: 2em;
+        border-radius: 5px;
+        border: 0;
+        background-color: #FFFFFF;
+        color: #20232A;
+      }
+    }
+  }
+}
