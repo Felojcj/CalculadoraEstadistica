@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "537fb1460df9f65ad1415b5c451e74ae",
+    "revision": "03841b117a913e0ca780d97c016c89ca",
     "url": "/CalculadoraEstadistica/index.html"
   },
   {
-    "revision": "f838fe613121fe9d9a30",
+    "revision": "b35cf87e91fac0f056a9",
     "url": "/CalculadoraEstadistica/static/css/main.22330dca.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CalculadoraEstadistica/static/js/2.84137cfe.chunk.js"
   },
   {
-    "revision": "f838fe613121fe9d9a30",
-    "url": "/CalculadoraEstadistica/static/js/main.d96b531b.chunk.js"
+    "revision": "b35cf87e91fac0f056a9",
+    "url": "/CalculadoraEstadistica/static/js/main.9481489d.chunk.js"
   },
   {
     "revision": "ed567ba76fa32cab8da3",
