@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CalculadoraEstadistica/static/css/main.15292f6c.chunk.css",
+    "main.css": "/CalculadoraEstadistica/static/css/main.ef419e4d.chunk.css",
     "main.js": "/CalculadoraEstadistica/static/js/main.9481489d.chunk.js",
     "main.js.map": "/CalculadoraEstadistica/static/js/main.9481489d.chunk.js.map",
     "runtime~main.js": "/CalculadoraEstadistica/static/js/runtime~main.83c35254.js",
@@ -8,8 +8,8 @@
     "static/js/2.84137cfe.chunk.js": "/CalculadoraEstadistica/static/js/2.84137cfe.chunk.js",
     "static/js/2.84137cfe.chunk.js.map": "/CalculadoraEstadistica/static/js/2.84137cfe.chunk.js.map",
     "index.html": "/CalculadoraEstadistica/index.html",
-    "precache-manifest.5328d0f3857e990f3e28d6b35f7b1243.js": "/CalculadoraEstadistica/precache-manifest.5328d0f3857e990f3e28d6b35f7b1243.js",
+    "precache-manifest.0d6fc2f4b30ad022d31bf528460febf7.js": "/CalculadoraEstadistica/precache-manifest.0d6fc2f4b30ad022d31bf528460febf7.js",
     "service-worker.js": "/CalculadoraEstadistica/service-worker.js",
-    "static/css/main.15292f6c.chunk.css.map": "/CalculadoraEstadistica/static/css/main.15292f6c.chunk.css.map"
+    "static/css/main.ef419e4d.chunk.css.map": "/CalculadoraEstadistica/static/css/main.ef419e4d.chunk.css.map"
   }
 }
