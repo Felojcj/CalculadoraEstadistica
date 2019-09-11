@@ -37,7 +37,7 @@ class App extends React.Component {
         </div>
         <div className="App-body">
           <form onSubmit={this.handleAddNumber} className="App-body__form">
-            <input required type="number" name="number" id="number" placeholder="Escriba un numero..." className="App-body__form-input"/>
+            <input required type="number" step="any" name="number" id="number" placeholder="Escriba un numero..." className="App-body__form-input"/>
             <button type="submit" className="App-body__form-button">Agregar</button>
           </form>
           <ul>
